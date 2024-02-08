@@ -1,0 +1,124 @@
+[
+    {
+        "id": "Hoodie-01",
+        "titulo": "Black Hoodie",
+        "imagen": "resources/hoodie1.png",
+        "categoria": {
+            "nombre": "Black Hoodie",
+            "id": "Hoodies"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Hoodie-02",
+        "titulo": "White Hoodie",
+        "imagen": "resources/hoodie2.png",
+        "categoria": {
+            "nombre": "White Hoodie",
+            "id": "Hoodies"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Hoodie-03",
+        "titulo": "Blue Hoodie",
+        "imagen": "resources/hoodie3.png",
+        "categoria": {
+            "nombre": "Blue Hoodie",
+            "id": "Hoodies"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Hoodie-04",
+        "titulo": "Orange Hoodie",
+        "imagen": "resources/hoodie4.png",
+        "categoria": {
+            "nombre": "Orange Hoodie",
+            "id": "Hoodies"
+        },
+        "precio": 50
+    },
+    
+    {
+        "id": "TShirt-01",
+        "titulo": "Male Programmer Shirt",
+        "imagen": "/resources/shirt1.png",
+        "categoria": {
+            "nombre": "Male Programmer T-Shirt",
+            "id": "Shirts"
+        },
+        "precio": 35
+    },
+    {
+        "id": "TShirt-02",
+        "titulo": "Dark Programmer Shirt",
+        "imagen": "/resources/shirt2.png",
+        "categoria": {
+            "nombre": "Dark Programmer T-Shirt",
+            "id": "Shirts"
+        },
+        "precio": 35
+    },
+    {
+        "id": "TShirt-03",
+        "titulo": "Programmer Life Shirt",
+        "imagen": "/resources/shirt3.png",
+        "categoria": {
+            "nombre": "Life Programmer T-Shirt",
+            "id": "Shirts"
+        },
+        "precio": 35
+    },
+    {
+        "id": "TShirt-04",
+        "titulo": "PHP Programmer Shirt",
+        "imagen": "/resources/shirt4.png",
+        "categoria": {
+            "nombre": "PHP Programmer T-Shirt",
+            "id": "Shirts"
+        },
+        "precio": 35
+    },
+    
+    {
+        "id": "Pin-01",
+        "titulo": "Beep Boop Pin",
+        "imagen": "/resources/pin1.png",
+        "categoria": {
+            "nombre": "Beep Boop Pin",  
+            "id": "Pins"
+        },
+        "precio": 20
+    },
+    {
+        "id": "Pin-02",
+        "titulo": "I'm a Programmer Pin",
+        "imagen": "/resources/pin2.png",
+        "categoria": {
+            "nombre": "I'm a Programmer Pin",
+            "id": "Pins"
+        },
+        "precio": 20
+    },
+    {
+        "id": "Pin-03",
+        "titulo": "Owl Programmer Pin",
+        "imagen": "/resources/pin3.png",
+        "categoria": {
+            "nombre": "Owl Programmer Pin",
+            "id": "Pins"
+        },
+        "precio": 20
+    },
+    {
+        "id": "Pin-04",
+        "titulo": "Tech Support Pin",
+        "imagen": "/resources/pin4.png",
+        "categoria": {
+            "nombre": "Don't Worry, I'm Tech Support Pin",
+            "id": "Pins"
+        },
+        "precio": 20
+    }
+]
